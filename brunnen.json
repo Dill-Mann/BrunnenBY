@@ -1,0 +1,566 @@
+[
+  {
+    "Kürzel": "AM",
+    "Name": "Stadt Amberg",
+    "Brunnen": ".",
+    "Alternative": "AS"
+  },
+  {
+    "Kürzel": "xAN",
+    "Name": "Stadt Ansbach",
+    "Brunnen": ".",
+    "Alternative": "AN"
+  },
+  {
+    "Kürzel": "xAB",
+    "Name": "Stadt Aschaffenburg",
+    "Brunnen": ".",
+    "Alternative": "AB"
+  },
+  {
+    "Kürzel": "xA",
+    "Name": "Stadt Augsburg",
+    "Brunnen": "LECHHAUSEN 642",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "xBA",
+    "Name": "Stadt Bamberg",
+    "Brunnen": ".",
+    "Alternative": "BA"
+  },
+  {
+    "Kürzel": "xBY",
+    "Name": "Stadt Bayreuth",
+    "Brunnen": "THIERGARTEN-kms3",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "xCO",
+    "Name": "Stadt Coburg",
+    "Brunnen": ".",
+    "Alternative": "CO"
+  },
+  {
+    "Kürzel": "ER",
+    "Name": "Stadt Erlangen",
+    "Brunnen": "Erlangen Q5",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "xFÜ",
+    "Name": "Stadt Fürth",
+    "Brunnen": ".",
+    "Alternative": "FÜ"
+  },
+  {
+    "Kürzel": "xHO",
+    "Name": "Stadt Hof",
+    "Brunnen": ".",
+    "Alternative": "HO"
+  },
+  {
+    "Kürzel": "IN",
+    "Name": "Stadt Ingolstadt",
+    "Brunnen": "KOTHAU 134A, GEROLFING B",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "KF",
+    "Name": "Stadt Kaufbeuren",
+    "Brunnen": ".",
+    "Alternative": "OAL"
+  },
+  {
+    "Kürzel": "xKE",
+    "Name": "Stadt Kempten (Allgäu)",
+    "Brunnen": ".",
+    "Alternative": "KE"
+  },
+  {
+    "Kürzel": "xLA",
+    "Name": "Stadt Landshut",
+    "Brunnen": "AHORNWEG L 1, PARKHAUS L 5, STRASSENBAUAMT L 7, MOOSWIESENWEG 18 B, MITTERWÖHR KL.ISAR 70/59, MITTERWÖHR GR.ISAR 70/63, UNTERSBERGWEG L 2 A, NIKOLAKIRCHE 21A, DAMMSTRASSE L 8, SIEBENSEE 95, MITTERWÖHR LIEGNITZER STRASSE",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "xMM",
+    "Name": "Stadt Memmingen",
+    "Brunnen": ".",
+    "Alternative": "MM"
+  },
+  {
+    "Kürzel": "xM",
+    "Name": "Landeshauptstadt München",
+    "Brunnen": "Allach 289A, München KP 95, München KP 294, München KPA 751, OBERMENZING Q 2, JOHANNESKIRCHEN KPA 222, München RSS P 144, München KP 16, München U9 160, MÜNCHEN KP 413, München KP 1560, FELDMOCHING 295",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "N",
+    "Name": "Stadt Nürnberg",
+    "Brunnen": "KAISERBURG NUERNBERG, Nürnberg K4",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "xPA",
+    "Name": "Stadt Passau",
+    "Brunnen": ".",
+    "Alternative": "PA"
+  },
+  {
+    "Kürzel": "xR",
+    "Name": "Stadt Regensburg",
+    "Brunnen": "REGENSBURG HAFEN Q5, REGENSBURG 771, REGENSBURG 773",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "xRO",
+    "Name": "Stadt Rosenheim",
+    "Brunnen": "ALPENWEG 27, HEILIG BLUT 14, SPORTPL.SCHWAIG 19, RIEDERGARTEN 25",
+    "Alternative": ""
+  },
+  {
+    "Kürzel": "SC",
+    "Name": "Stadt Schwabach",
+    "Brunnen": ".",
+    "Alternative": "RH"
+  },
+  {
+    "Kürzel": "xSW",
+    "Name": "Stadt Schweinfurt",
+    "Brunnen": ".",
+    "Alternative": "SW"
+  },
+  {
+    "Kürzel": "xSR",
+    "Name": "Stadt Straubing",
+    "Brunnen": ".",
+    "Alternative": "SR"
+  },
+  {
+    "Kürzel": "xWEN",
+    "Name": "Stadt Weiden i.d.OPf.",
+    "Brunnen": ".",
+    "Alternative": "WEN"
+  },
+  {
+    "Kürzel": "xWÜ",
+    "Name": "Stadt Würzburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "AIC",
+    "Name": "Landkreis Aichach-Friedberg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "AÖ",
+    "Name": "Landkreis Altötting",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "AS",
+    "Name": "Landkreis Amberg-Sulzbach",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "AN",
+    "Name": "Landkreis Ansbach",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "AB",
+    "Name": "Landkreis Aschaffenburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "A",
+    "Name": "Landkreis Augsburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "KG",
+    "Name": "Landkreis Bad Kissingen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "TÖL",
+    "Name": "Landkreis Bad Tölz-Wolfratshausen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "BA",
+    "Name": "Landkreis Bamberg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "BT",
+    "Name": "Landkreis Bayreuth",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "BGL",
+    "Name": "Landkreis Berchtesgadener Land",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "CHA",
+    "Name": "Landkreis Cham",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "CO",
+    "Name": "Landkreis Coburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "DAH",
+    "Name": "Landkreis Dachau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "DEG",
+    "Name": "Landkreis Deggendorf",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "DLG",
+    "Name": "Landkreis Dillingen an der Donau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "DGF",
+    "Name": "Landkreis Dingolfing-Landau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "DON",
+    "Name": "Landkreis Donau-Ries",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "EBE",
+    "Name": "Landkreis Ebersberg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "EI",
+    "Name": "Landkreis Eichstätt",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "ED",
+    "Name": "Landkreis Erding",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "ERH",
+    "Name": "Landkreis Erlangen-Höchstadt",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "FO",
+    "Name": "Landkreis Forchheim",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "FS",
+    "Name": "Landkreis Freising",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "FRG",
+    "Name": "Landkreis Freyung-Grafenau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "FFB",
+    "Name": "Landkreis Fürstenfeldbruck",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "FÜ",
+    "Name": "Landkreis Fürth",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "GAP",
+    "Name": "Landkreis Garmisch-Partenkirchen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "GZ",
+    "Name": "Landkreis Günzburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "HAS",
+    "Name": "Landkreis Haßberge",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "HO",
+    "Name": "Landkreis Hof",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "KEH",
+    "Name": "Landkreis Kelheim",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "KT",
+    "Name": "Landkreis Kitzingen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "KC",
+    "Name": "Landkreis Kronach",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "KU",
+    "Name": "Landkreis Kulmbach",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "LL",
+    "Name": "Landkreis Landsberg am Lech",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "LA",
+    "Name": "Landkreis Landshut",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "LIF",
+    "Name": "Landkreis Lichtenfels",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "LI",
+    "Name": "Landkreis Lindau (Bodensee)",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "MSP",
+    "Name": "Landkreis Main-Spessart",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "MB",
+    "Name": "Landkreis Miesbach",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "MIL",
+    "Name": "Landkreis Miltenberg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "MÜ",
+    "Name": "Landkreis Mühldorf am Inn",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "M",
+    "Name": "Landkreis München",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "ND",
+    "Name": "Landkreis Neuburg-Schrobenhausen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "NM",
+    "Name": "Landkreis Neumarkt in der Oberpfalz",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "NEA",
+    "Name": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "NEW",
+    "Name": "Landkreis Neustadt an der Waldnaab",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "LAU",
+    "Name": "Landkreis Nürnberger Land",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "OA",
+    "Name": "Landkreis Oberallgäu",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "OAL",
+    "Name": "Landkreis Ostallgäu",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "PA",
+    "Name": "Landkreis Passau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "PAF",
+    "Name": "Landkreis Pfaffenhofen an der Ilm",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "REG",
+    "Name": "Landkreis Regen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "R",
+    "Name": "Landkreis Regensburg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "NES",
+    "Name": "Landkreis Rhön-Grabfeld",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "RO",
+    "Name": "Landkreis Rosenheim",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "RH",
+    "Name": "Landkreis Roth",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "PAN",
+    "Name": "Landkreis Rottal-Inn",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "SAD",
+    "Name": "Landkreis Schwandorf",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "SW",
+    "Name": "Landkreis Schweinfurt",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "STA",
+    "Name": "Landkreis Starnberg",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "SR",
+    "Name": "Landkreis Straubing-Bogen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "TIR",
+    "Name": "Landkreis Tirschenreuth",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "TS",
+    "Name": "Landkreis Traunstein",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "MN",
+    "Name": "Landkreis Unterallgäu",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "WM",
+    "Name": "Landkreis Weilheim-Schongau",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "WUG",
+    "Name": "Landkreis Weißenburg-Gunzenhausen",
+    "Brunnen": "x",
+    "Alternative": "x"
+  },
+  {
+    "Kürzel": "WUN",
+    "Name": "Landkreis Wunsiedel im Fichtelgebirge",
+    "Brunnen": "x",
+    "Alternative": "x"
+  }
+]
